@@ -2,7 +2,7 @@
 This is a research project to establish a digital marketplace platform that enables Buyers and Suppliers to connect through an online portal.
 
 # Problem Statement
-Develop a recommendation algorithm for a digital marketplace platform that connects New Zealand public sector agencies (buyers) with various suppliers (sellers) by providing personalized and relevant product or service suggestions. The algorithm should effectively incorporate Future Procurement Opportunities to help suppliers better prepare for and align with upcoming demands from public sector agencies.
+Develop a recommendation algorithm for a digital marketplace platform that connects New Zealand public sector agencies (buyers) with various suppliers (sellers) by providing personalized and relevant product or service suggestions. The algorithm should effectively incorporate Future Procurement Opportunities https://www.gets.govt.nz/FutureProcurementOpportunitiesIndex.htm to help suppliers better prepare for and align with upcoming demands from public sector agencies.
 
 ## The algorithm aims to:
 
