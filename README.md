@@ -20,29 +20,14 @@ for the digital marketplace platform that connects buyers and sellers. We can as
 
 attributes and their respective weightings for the project:
 
-1. Interaction between buyer and supplier (0.75x)
-   - Direct communication between the buyer and supplier, such as messaging or inquiries about specific products/services.
-
-2. Purchase history (0.135x)
-   - Previous transactions between the buyer and supplier, indicating a successful business relationship.
-
-3. Buyer's time spent on the supplier's profile or product/service page (>2 mins: 0.10x)
-   - An indicator of the buyer's interest in the supplier's offerings.
-
-4. Inclusion of a supplier in the buyer's favorites or shortlist (0.01x)
-   - Shows buyer's intent to keep a supplier in consideration for future procurement opportunities.
-
-5. Buyer's rating or review of a supplier (0.005x)
-   - Reflects the buyer's satisfaction with a supplier's products/services.
-
-6. Item similarity (0.03x)
-   - The degree to which the supplier's products/services match the buyer's preferences and past purchases. This could be measured using text analysis or categorical similarity.
-
-7. Supplier's response time (0.02x)
-   - The average time it takes for a supplier to respond to a buyer's inquiry or request. A faster response time could indicate better customer service and communication.
-
-8. Supplier diversity (0.015x)
-   - A measure of whether the supplier is underrepresented (e.g., Māori and Pasifika suppliers). This can help agencies meet their diversity goals and support social procurement outcomes.
+1. Interaction between buyer and supplier (0.75x) -Direct communication between the buyer and supplier, such as messaging or inquiries about specific products/services.
+2. Purchase history (0.135x) - Previous transactions between the buyer and supplier, indicating a successful business relationship.
+3. Buyer's time spent on the supplier's profile or product/service page (>2 mins: 0.10x) - An indicator of the buyer's interest in the supplier's offerings.
+4. Inclusion of a supplier in the buyer's favorites or shortlist (0.01x) - Shows buyer's intent to keep a supplier in consideration for future procurement opportunities.
+5. Buyer's rating or review of a supplier (0.005x) - Reflects the buyer's satisfaction with a supplier's products/services.
+6. Item similarity (0.03x) - The degree to which the supplier's products/services match the buyer's preferences and past purchases. This could be measured using text analysis or categorical similarity.
+7. Supplier's response time (0.02x) - The average time it takes for a supplier to respond to a buyer's inquiry or request. A faster response time could indicate better customer service and communication.
+8. Supplier diversity (0.015x) - A measure of whether the supplier is underrepresented (e.g., Māori and Pasifika suppliers). This can help agencies meet their diversity goals and support social procurement outcomes.
 
 These weightings can be used to score and rank suppliers based on their relevance to a specific buyer. By incorporating these attributes and their respective weightings into the scoring system, the recommendation algorithm becomes more comprehensive and better suited to the project's goals. Ultimately, the algorithm will generate more accurate and relevant product/service suggestions for New Zealand public sector agencies, connecting them with appropriate suppliers on the digital marketplace platform.
 
