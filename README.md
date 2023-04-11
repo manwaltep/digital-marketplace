@@ -1,10 +1,10 @@
-# digital-marketplace
-This is a research project to establish a digital marketplace platform that enables the buyers and suppliers to connect. 
+# Digital-marketplace
+This is a research project to establish a digital marketplace platform that enables Buyers and Suppliers to connect. 
 
-# problem statement
+# Problem Statement
 Develop a recommendation algorithm for a digital marketplace platform that connects New Zealand public sector agencies (buyers) with various suppliers (sellers) by providing personalized and relevant product or service suggestions. The algorithm should effectively incorporate Future Procurement Opportunities to help suppliers better prepare for and align with upcoming demands from public sector agencies.
 
-## The algorithm should:
+## The algorithm aims to:
 
 1. Take into account users' preferences, behavior, and past interactions on the platform, considering both buyers' and sellers' perspectives.
 2. Utilize item similarity, collaborative filtering, and popularity to generate recommendations that cater to the specific needs of public sector agencies.
