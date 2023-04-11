@@ -45,3 +45,8 @@ attributes and their respective weightings for the project:
    - A measure of whether the supplier is underrepresented (e.g., Māori and Pasifika suppliers). This can help agencies meet their diversity goals and support social procurement outcomes.
 
 These weightings can be used to score and rank suppliers based on their relevance to a specific buyer. By incorporating these attributes and their respective weightings into the scoring system, the recommendation algorithm becomes more comprehensive and better suited to the project's goals. Ultimately, the algorithm will generate more accurate and relevant product/service suggestions for New Zealand public sector agencies, connecting them with appropriate suppliers on the digital marketplace platform.
+
+## Alorithm Diagram
+
+![DMP-Algorithm drawio](https://user-images.githubusercontent.com/88919193/231110547-39a8188e-a50a-42f9-96f4-a65f1f0af152.png)
+
